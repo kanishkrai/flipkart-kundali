@@ -19,7 +19,7 @@ body {
 
 .startupRocket{
     position: absolute;
-    bottom: 0;
+    bottom: 8vh;
     left: 0;
     width: 60%;
     margin-top: -30px;
