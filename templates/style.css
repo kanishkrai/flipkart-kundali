@@ -85,7 +85,7 @@ p {
     hyphens: auto;
 }
 
-p.beginning:first-letter {
+p.begin:first-letter {
   display: inline-block;
   margin: 3vw 1vw .1vw 0;
   float: left;
